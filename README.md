@@ -1,1 +1,3 @@
-<h1> Hellow</h1>
+<h1> Hello</h1>
+<br>
+<h2>This is my hands on git tech</h2>
